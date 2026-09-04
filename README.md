@@ -1,4 +1,8 @@
 CAREER GUIDANCE WEB APPLICATION – “THE PATH FINDER”
+
+Live Demo
+🔗 Website:https://ramyan1124.github.io/the-path-finder/
+
 1. INTRODUCTION
 
 Career selection is one of the most critical decisions in a student’s life. Many students face confusion after completing school or graduation due to a lack of proper guidance, awareness of career options, and understanding of required skills. Traditional career guidance methods are often limited, generic, and not personalized.
