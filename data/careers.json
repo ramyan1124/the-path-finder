@@ -1,0 +1,211 @@
+[
+ 
+  {
+    "career": "Engineering Student",
+    "education": ["12"],
+    "stream": ["maths", "cs"],
+    "interest": "tech",
+    "roadmap": [
+      "Choose PCM / CS stream",
+      "Prepare for engineering entrance exams",
+      "Join B.Tech / B.E program",
+      "Skill development & projects"
+    ]
+  },
+  {
+    "career": "Medical Student",
+    "education": ["12"],
+    "stream": ["biology"],
+    "interest": "medical",
+    "roadmap": [
+      "Prepare for NEET",
+      "Join MBBS / Allied health courses",
+      "Clinical exposure",
+      "Specialization"
+    ]
+  },
+  {
+    "career": "Commerce Graduate Path",
+    "education": ["12"],
+    "stream": ["commerce"],
+    "interest": "business",
+    "roadmap": [
+      "Choose B.Com / BBA",
+      "Accounting & finance basics",
+      "Internships",
+      "Corporate roles"
+    ]
+  },
+  {
+    "career": "Creative Foundation",
+    "education": ["12"],
+    "stream": ["arts"],
+    "interest": "design",
+    "roadmap": [
+      "Design fundamentals",
+      "Short-term design courses",
+      "Portfolio building",
+      "Creative careers"
+    ]
+  },
+
+  {
+    "career": "Diploma Engineer",
+    "education": ["diploma"],
+    "stream": ["engineering"],
+    "interest": "tech",
+    "roadmap": [
+      "Complete diploma program",
+      "Industry training",
+      "Lateral entry or job placement",
+      "Career advancement"
+    ]
+  },
+  {
+    "career": "Technical Support Specialist",
+    "education": ["diploma"],
+    "stream": ["cs"],
+    "interest": "tech",
+    "roadmap": [
+      "System & networking basics",
+      "Technical support tools",
+      "Entry-level IT job",
+      "Upskill for higher roles"
+    ]
+  },
+  {
+    "career": "Healthcare Assistant",
+    "education": ["diploma"],
+    "stream": ["biology"],
+    "interest": "medical",
+    "roadmap": [
+      "Allied health diploma",
+      "Clinical training",
+      "Hospital placement",
+      "Specialization"
+    ]
+  },
+  {
+    "career": "Software Engineer",
+    "education": ["ug"],
+    "stream": ["cs", "engineering", "maths"],
+    "interest": "tech",
+    "roadmap": [
+      "Programming & DSA",
+      "Project development",
+      "Internships",
+      "Software roles"
+    ]
+  },
+  {
+    "career": "Data Analyst",
+    "education": ["ug"],
+    "stream": ["maths", "cs"],
+    "interest": "tech",
+    "roadmap": [
+      "Excel & SQL",
+      "Data visualization",
+      "Analytics projects",
+      "Corporate roles"
+    ]
+  },
+  {
+    "career": "Business Executive",
+    "education": ["ug"],
+    "stream": ["commerce"],
+    "interest": "business",
+    "roadmap": [
+      "Management fundamentals",
+      "Business internships",
+      "Corporate exposure",
+      "Leadership roles"
+    ]
+  },
+  {
+    "career": "UX Designer",
+    "education": ["ug"],
+    "stream": ["arts", "engineering"],
+    "interest": "design",
+    "roadmap": [
+      "User-centered design",
+      "UI/UX tools",
+      "Portfolio projects",
+      "Product teams"
+    ]
+  },
+
+  {
+    "career": "AI Engineer",
+    "education": ["pg"],
+    "stream": ["cs", "engineering", "maths"],
+    "interest": "tech",
+    "roadmap": [
+      "Advanced ML concepts",
+      "AI research projects",
+      "Industry collaboration",
+      "Senior roles"
+    ]
+  },
+  {
+    "career": "Healthcare Researcher",
+    "education": ["pg"],
+    "stream": ["biology"],
+    "interest": "medical",
+    "roadmap": [
+      "Advanced medical studies",
+      "Clinical research",
+      "Publications",
+      "Research roles"
+    ]
+  },
+  {
+    "career": "MBA Professional",
+    "education": ["pg"],
+    "stream": ["commerce", "arts"],
+    "interest": "business",
+    "roadmap": [
+      "Management specialization",
+      "Industry exposure",
+      "Strategic roles",
+      "Leadership positions"
+    ]
+  },
+
+ 
+  {
+    "career": "Freelance Developer",
+    "education": ["break"],
+    "stream": ["cs", "engineering"],
+    "interest": "tech",
+    "roadmap": [
+      "Skill refresh",
+      "Freelance projects",
+      "Client portfolio",
+      "Remote opportunities"
+    ]
+  },
+  {
+    "career": "Entrepreneur",
+    "education": ["break"],
+    "stream": ["commerce", "arts", "engineering"],
+    "interest": "business",
+    "roadmap": [
+      "Idea validation",
+      "Market research",
+      "Product launch",
+      "Business scaling"
+    ]
+  },
+  {
+    "career": "Creative Freelancer",
+    "education": ["break"],
+    "stream": ["arts"],
+    "interest": "design",
+    "roadmap": [
+      "Skill upgradation",
+      "Creative portfolio",
+      "Freelancing",
+      "Brand collaborations"
+    ]
+  }
+]

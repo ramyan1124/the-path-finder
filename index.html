@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Path Finder</title>
+
+<!-- Bootstrap -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Google Font -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+body{
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #4f7cff, #6aa7ff);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-card{
+    background:#fff;
+    padding:40px;
+    border-radius:18px;
+    width:100%;
+    max-width:420px;
+    box-shadow:0 20px 45px rgba(0,0,0,.25);
+}
+
+.login-logo{
+    width:80px;
+    height:80px;
+    border-radius:50%;
+    object-fit:cover;
+    border:3px solid #2563eb;
+    margin-bottom:15px;
+}
+
+.btn-login{
+    background:linear-gradient(135deg,#2563eb,#4f7cff);
+    color:#fff;
+    border:none;
+    border-radius:25px;
+    padding:12px;
+    font-weight:600;
+}
+
+.btn-login:hover{
+    opacity:.95;
+}
+</style>
+</head>
+
+<body>
+
+<div class="login-card text-center">
+
+    <img src="./source/logo.webp" class="login-logo" alt="Logo">
+
+    <h3 class="fw-bold">THE PATH FINDER</h3>
+    <p class="text-muted">Access your career journey</p>
+
+    <form onsubmit="loginUser(event)">
+
+        <div class="mb-3 text-start">
+            <label class="form-label">Email</label>
+            <input type="email" id="email" class="form-control" required>
+        </div>
+
+        <div class="mb-3 text-start">
+            <label class="form-label">Password</label>
+            <input type="password" id="password" class="form-control" required>
+        </div>
+
+        <button type="submit" class="btn btn-login w-100">
+            Login
+        </button>
+        <button type="button" class="btn btn-outline-primary w-100 mt-2">
+            Create a New Account
+        </button>
+    </form>
+
+    <p class="mt-4 small text-muted">
+        © 2025 The Path Finder. All rights reserved.
+    </p>
+</div>
+
+<script>
+function loginUser(event){
+    event.preventDefault();
+
+    const email = document.getElementById("email").value;
+    const password = document.getElementById("password").value;
+
+    // Simple validation (demo purpose)
+    if(email && password){
+        // Store login state (optional)
+        localStorage.setItem("loggedIn", "true");
+
+        // Redirect to home page
+        window.location.href = "home.html"
+    }
+}
+</script>
+</body>
+</html>
