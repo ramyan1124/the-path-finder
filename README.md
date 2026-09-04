@@ -188,17 +188,7 @@ Integration with government exam information portals
 
 The Path Finder successfully addresses the problem of career confusion by providing a structured and explainable career guidance platform. The system demonstrates effective use of frontend technologies, modern UI design, and data-driven logic to assist students in making informed career decisions. This project serves as a strong academic submission and can be further enhanced into a full-scale career guidance system.
 
-14. DEVELOPED BY
-
-Magi Nandhu – maginandhu9786@gmail.com
-
-Ramya N – ramyan0411@gmail.com
-
-Ebin Roshan B – ebinroshan04@gmail.com
-
-Lega Mani – Legamanig@gmail.com
-
-15. PROJECT DETAILS
+14. PROJECT DETAILS
 
 Project Title: The Path Finder
 
